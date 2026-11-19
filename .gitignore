@@ -1,0 +1,22 @@
+# Build directories and local executables
+/build/
+/cmake-build-*/
+/StudyPlanner
+/a.out
+*.exe
+
+# Compiler and linker output
+*.o
+*.obj
+*.d
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+*.dSYM/
+*.pdb
+
+# Local editor and OS files
+/.vscode/
+.DS_Store

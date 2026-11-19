@@ -9,4 +9,4 @@ We are creating a college planner for students, aiming to make college life easy
 
 
 - Potential additional ideas
-
+    - Create a TUI using FTXUI https://github.com/ArthurSonzogni/FTXUI
