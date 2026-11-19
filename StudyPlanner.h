@@ -19,9 +19,8 @@ class StudyPlanner
     
     public:
 
-    StudyPlanner(Dates today, double hours);
-
-    ~StudyPlanner();
+    StudyPlanner();//constructor
+    ~StudyPlanner();//destructor
     bool add_Module(Module*);
     bool Remove_Module(string Code);
     Module* find_Module(string Code);

@@ -9,7 +9,6 @@ private:
     double weight, mark;
     Dates dueDate; // date is a user-defined class type
     bool completed;
-    Dates deadline;
     double estimatedHours;
     double hoursDone;
 
